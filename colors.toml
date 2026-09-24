@@ -1,0 +1,40 @@
+mode = "dark"
+
+# Kato Megumi Dark: dusk plum from her hair, sakura pink accent.
+# Built like Omarchy's official dark themes: never pure black (bg lightness ~0.22),
+# soft white text (~12.5:1, no halation), lighter/softer ANSI colors with distinct hues.
+# Every color that can appear as text (incl. muted) is >= 4.5:1 on background.
+
+accent = "#e589ad"
+selection = "#3e303c"
+muted = "#898188"
+
+background = "#21171f"
+dark_background = "#1b111a"
+darker_background = "#150c14"
+lighter_background = "#2c212a"
+
+foreground = "#e0d8df"
+dark_foreground = "#9e969c"
+light_foreground = "#c9c1c8"
+bright_foreground = "#f4ebf3"
+
+red = "#e98081"
+yellow = "#bd9a41"
+orange = "#da8c54"
+green = "#63af6f"
+cyan = "#47adb8"
+blue = "#759fed"
+magenta = "#d583c3"
+brown = "#b07f68"
+
+bright_red = "#f2a09a"
+bright_yellow = "#d2b34b"
+bright_green = "#6bc987"
+bright_cyan = "#52c5d6"
+bright_blue = "#9bb5f1"
+bright_magenta = "#f398d7"
+
+# Sakura pink drifting into lavender and plum.
+hyprland_active_border = "rgba(e589adee) rgba(c9a3dcee) rgba(8e6a9eee) 45deg"
+hyprland_inactive_border = "rgba(4a3a47aa)"
