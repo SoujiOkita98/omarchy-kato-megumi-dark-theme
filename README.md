@@ -34,12 +34,15 @@ omarchy plymouth set-by-theme kato-megumi-dark
 
 ## Wallpapers
 
+Two wallpapers are compressed as WebP to reduce their file sizes while keeping
+their original dimensions.
+
 | # | File | Artist | Source |
 |---|---|---|---|
-| 1 | `01-F13-clean_…wq968q.png` | unconfirmed (artbook page; cropped to remove the page margin) | [wallhaven wq968q](https://wallhaven.cc/w/wq968q) |
+| 1 | `01-F13-clean_…wq968q.webp` | unconfirmed (artbook page; cropped to remove the page margin) | [wallhaven wq968q](https://wallhaven.cc/w/wq968q) |
 | 2 | `02-G10_…l3z38q.jpg` | unknown | [wallhaven l3z38q](https://wallhaven.cc/w/l3z38q) |
 | 3 | `03-O11_…d5plzm.jpg` | Misaki Kurehito* | [yande.re](https://yande.re/post/show/356486) via [wallhaven d5plzm](https://wallhaven.cc/w/d5plzm) |
-| 4 | `04-O06_…28edg6.png` | Misaki Kurehito* | [wallhaven 28edg6](https://wallhaven.cc/w/28edg6) |
+| 4 | `04-O06_…28edg6.webp` | Misaki Kurehito* | [wallhaven 28edg6](https://wallhaven.cc/w/28edg6) |
 
 ## Artwork & takedown
 
